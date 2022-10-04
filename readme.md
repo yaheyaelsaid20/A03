@@ -1,10 +1,10 @@
 PART 1: Directions on Using Webstorm for MAC:
 
-1.) Using NJIT email account login to JetBrains and signup for free products.
+1.) Using NJIT email account login to JetBrains and signup for free products. https://www.jetbrains.com/community/education/#students
 
-2.) Download Webstorm by going on to jetbrain and select develop tools and select webstorm and clickdownlaod.
+2.) Download Webstorm by going on to jetbrain and select develop tools and select webstorm and click downlaod. https://www.jetbrains.com/webstorm/
 
-3.) Create a github account using njit email account. 
+3.) Create a github account using njit email account. https://github.com/
 
 4.) Download git from https://git-scm.com/downloads, follow insturction for MacOs. Download via MacoOS terminal CLI.
 
